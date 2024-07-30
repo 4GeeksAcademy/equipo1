@@ -1,3 +1,10 @@
+EQUIPO 1 
+
+Fernanda - Carrusel
+Pablo jumbotron
+Juan - Nav bar
+Adriana - Responsive 
+
 # Hello World with React boilerplate
 
 Start coding a react application
