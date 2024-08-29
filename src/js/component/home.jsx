@@ -1,4 +1,5 @@
 import React from "react";
+import Jumbotron from "./jumbotron.jsx"
 
 
 //include images into your bundle
@@ -35,6 +36,9 @@ const Home = () => {
                 </div>
             </nav>
 
+		<div>
+			<Jumbotron/>
+		</div>
             {/* Card*/}
             <div className="container mt-5 flex-grow-1">
                 <div className="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
