@@ -1,6 +1,6 @@
 EQUIPO 1 
 
-Fernanda - Carrusel
+Fernanda - Cards (Adriana)
 Pablo jumbotron
 Juan - Nav bar
 Adriana - Responsive 
