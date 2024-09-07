@@ -12,25 +12,27 @@ import rigoImage from "../../img/rigo-baby.jpg";
 
 //create your first component
 const Home = () => {
-	return (
-		<div className="d-flex flex-column min-vh-100">
-            
-            {/* Navbar */}
-            <Navbar></Navbar>
+      return (
+            <div className="d-flex flex-column min-vh-100">
 
-		<div>
-			<Jumbotron/>
-		</div>
+                  {/* Navbar */}
+                  <Navbar />
+
+                  <div>
+                        <Jumbotron />
+
+                        {/* Card*/}
+                        <Cards />
+
+                  </div>
 
 
-            {/* Card*/}
-            <Cards></Cards>
 
-            {/* Footer */}
-            <Footer></Footer>
-        </div>
+                  {/* Footer */}
+                  <Footer />
+            </div>
 
-	)
+      )
 };
 
 export default Home;
